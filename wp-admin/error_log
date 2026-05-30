@@ -1,0 +1,2 @@
+[08-Apr-2022 23:46:29 UTC] PHP Warning:  set_time_limit() has been disabled for security reasons in /home/alvarium/public_html/wp-admin/includes/class-wp-upgrader.php on line 472
+[18-Nov-2025 15:18:47 UTC] Invalid trp_settings: "not_set"

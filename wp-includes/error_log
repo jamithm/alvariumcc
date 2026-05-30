@@ -1,0 +1,1405 @@
+[21-Jun-2023 16:23:02 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/functions.php on line 8
+[16-Apr-2024 20:41:38 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/functions.php on line 8
+[29-Apr-2024 09:27:46 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/class.wp-styles.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class.wp-styles.php on line 11
+[15-May-2024 22:51:58 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/class-IXR.php:42
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-IXR.php on line 42
+[26-May-2024 18:48:42 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/class-IXR.php:42
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-IXR.php on line 42
+[29-May-2024 16:35:03 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/class.wp-styles.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class.wp-styles.php on line 11
+[11-Jun-2024 20:57:10 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/class-IXR.php:42
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-IXR.php on line 42
+[20-Sep-2024 12:11:16 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-http.php on line 11
+[20-Sep-2024 12:11:18 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home1/alvarium/public_html/wp-includes/class-wp-http-requests-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-http-requests-response.php on line 17
+[20-Sep-2024 12:11:23 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home1/alvarium/public_html/wp-includes/feed-rss.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/feed-rss.php on line 8
+[20-Sep-2024 12:11:27 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home1/alvarium/public_html/wp-includes/ms-default-filters.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/ms-default-filters.php on line 16
+[20-Sep-2024 12:11:39 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home1/alvarium/public_html/wp-includes/feed-rss2-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/feed-rss2-comments.php on line 8
+[20-Sep-2024 12:11:42 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function add_theme_support() in /home1/alvarium/public_html/wp-includes/block-patterns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/block-patterns.php on line 9
+[20-Sep-2024 12:11:44 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/wp-diff.php:13
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/wp-diff.php on line 13
+[20-Sep-2024 12:11:46 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home1/alvarium/public_html/wp-includes/class-walker-nav-menu.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[20-Sep-2024 12:11:58 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home1/alvarium/public_html/wp-includes/feed-rdf.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/feed-rdf.php on line 8
+[20-Sep-2024 12:12:02 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home1/alvarium/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/template-canvas.php on line 12
+[20-Sep-2024 12:12:03 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home1/alvarium/public_html/wp-includes/vars.php:23
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/vars.php on line 23
+[20-Sep-2024 12:12:05 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/functions.php on line 8
+[20-Sep-2024 12:12:06 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/class-snoopy.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-snoopy.php on line 6
+[20-Sep-2024 12:12:10 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home1/alvarium/public_html/wp-includes/class-walker-page.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-walker-page.php on line 17
+[20-Sep-2024 12:12:25 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home1/alvarium/public_html/wp-includes/class-wp-xmlrpc-server.php:24
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-xmlrpc-server.php on line 24
+[20-Sep-2024 12:12:26 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home1/alvarium/public_html/wp-includes/class-wp-http-ixr-client.php:9
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-http-ixr-client.php on line 9
+[20-Sep-2024 12:12:30 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WP_Session_Tokens" not found in /home1/alvarium/public_html/wp-includes/class-wp-user-meta-session-tokens.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-user-meta-session-tokens.php on line 17
+[20-Sep-2024 12:12:39 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home1/alvarium/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-styles.php on line 18
+[20-Sep-2024 12:12:44 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "SimplePie_Sanitize" not found in /home1/alvarium/public_html/wp-includes/class-wp-simplepie-sanitize-kses.php:19
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-simplepie-sanitize-kses.php on line 19
+[20-Sep-2024 12:13:00 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/class-wp-customize-panel.php:411
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-customize-panel.php on line 411
+[20-Sep-2024 12:13:02 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/meta.php:13
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/meta.php on line 13
+[20-Sep-2024 12:13:07 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home1/alvarium/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/feed-atom-comments.php on line 8
+[20-Sep-2024 12:13:10 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/class-IXR.php:42
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-IXR.php on line 42
+[20-Sep-2024 12:13:19 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home1/alvarium/public_html/wp-includes/class-walker-category.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-walker-category.php on line 17
+[20-Sep-2024 12:13:23 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/class.wp-scripts.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class.wp-scripts.php on line 11
+[20-Sep-2024 12:13:30 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/locale.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/locale.php on line 11
+[20-Sep-2024 12:13:34 America/Mexico_City] PHP Deprecated:  The PSR-0 `Requests_...` class names in the Requests library are deprecated. Switch to the PSR-4 `WpOrg\Requests\...` class names at your earliest convenience. in /home1/alvarium/public_html/wp-includes/class-requests.php on line 24
+[20-Sep-2024 12:13:38 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/default-widgets.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/default-widgets.php on line 11
+[20-Sep-2024 12:13:39 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "SimplePie_File" not found in /home1/alvarium/public_html/wp-includes/class-wp-simplepie-file.php:19
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-simplepie-file.php on line 19
+[20-Sep-2024 12:13:42 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WP_Image_Editor" not found in /home1/alvarium/public_html/wp-includes/class-wp-image-editor-gd.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-image-editor-gd.php on line 16
+[20-Sep-2024 12:13:42 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/nav-menu-template.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/nav-menu-template.php on line 11
+[20-Sep-2024 12:13:44 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home1/alvarium/public_html/wp-includes/class-walker-comment.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-walker-comment.php on line 17
+[20-Sep-2024 12:13:53 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/class-wp-customize-control.php:706
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-customize-control.php on line 706
+[20-Sep-2024 12:13:55 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home1/alvarium/public_html/wp-includes/media.php:2342
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/media.php on line 2342
+[20-Sep-2024 12:14:03 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home1/alvarium/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-scripts.php on line 18
+[20-Sep-2024 12:14:05 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/ms-blogs.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/ms-blogs.php on line 11
+[20-Sep-2024 12:14:12 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home1/alvarium/public_html/wp-includes/update.php:1152
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/update.php on line 1152
+[20-Sep-2024 12:14:14 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/class-json.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-json.php on line 2
+[20-Sep-2024 12:14:16 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/class-simplepie.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-simplepie.php on line 5
+[20-Sep-2024 12:14:17 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "Text_Diff_Renderer" not found in /home1/alvarium/public_html/wp-includes/class-wp-text-diff-renderer-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-text-diff-renderer-table.php on line 17
+[20-Sep-2024 12:14:18 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/class-smtp.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-smtp.php on line 6
+[20-Sep-2024 12:14:20 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/class.wp-styles.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class.wp-styles.php on line 11
+[20-Sep-2024 12:14:21 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/rss.php:19
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/rss.php on line 19
+[20-Sep-2024 12:14:23 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/class-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-http.php on line 11
+[20-Sep-2024 12:14:25 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/registration.php:9
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/registration.php on line 9
+[20-Sep-2024 12:14:28 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home1/alvarium/public_html/wp-includes/default-filters.php:22
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/default-filters.php on line 22
+[20-Sep-2024 12:14:30 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/class-wp-customize-setting.php:964
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-customize-setting.php on line 964
+[20-Sep-2024 12:14:35 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/class-feed.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-feed.php on line 10
+[20-Sep-2024 12:14:38 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/script-loader.php:20
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/script-loader.php on line 20
+[20-Sep-2024 12:14:42 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/session.php:9
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/session.php on line 9
+[20-Sep-2024 12:14:43 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "Text_Diff_Renderer_inline" not found in /home1/alvarium/public_html/wp-includes/class-wp-text-diff-renderer-inline.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-text-diff-renderer-inline.php on line 17
+[20-Sep-2024 12:14:51 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/cache.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/cache.php on line 12
+[20-Sep-2024 12:14:52 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/date.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/date.php on line 11
+[20-Sep-2024 12:14:55 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Hooks" not found in /home1/alvarium/public_html/wp-includes/class-wp-http-requests-hooks.php:18
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-http-requests-hooks.php on line 18
+[20-Sep-2024 12:14:58 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/registration-functions.php:9
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/registration-functions.php on line 9
+[20-Sep-2024 12:15:05 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home1/alvarium/public_html/wp-includes/class-walker-page-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-walker-page-dropdown.php on line 17
+[20-Sep-2024 12:15:17 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home1/alvarium/public_html/wp-includes/class-walker-category-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-walker-category-dropdown.php on line 17
+[20-Sep-2024 12:15:18 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/class-wp-customize-section.php:412
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-customize-section.php on line 412
+[20-Sep-2024 12:15:24 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/ms-settings.php:35
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/ms-settings.php on line 35
+[20-Sep-2024 12:15:28 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home1/alvarium/public_html/wp-includes/feed-atom.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/feed-atom.php on line 8
+[20-Sep-2024 12:15:33 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/embed-template.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/embed-template.php on line 11
+[20-Sep-2024 12:15:35 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/class.wp-dependencies.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class.wp-dependencies.php on line 11
+[20-Sep-2024 12:15:38 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WP_Image_Editor" not found in /home1/alvarium/public_html/wp-includes/class-wp-image-editor-imagick.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-image-editor-imagick.php on line 16
+[20-Sep-2024 12:15:40 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home1/alvarium/public_html/wp-includes/feed-rss2.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/feed-rss2.php on line 8
+[20-Sep-2024 12:15:47 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/class-oembed.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-oembed.php on line 12
+[20-Sep-2024 12:15:50 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function wp_using_themes() in /home1/alvarium/public_html/wp-includes/template-loader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/template-loader.php on line 7
+[20-Sep-2024 12:15:58 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/spl-autoload-compat.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/spl-autoload-compat.php on line 14
+[20-Sep-2024 12:16:00 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/class-wp-feed-cache.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-feed-cache.php on line 11
+[22-Sep-2024 21:00:21 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-http.php on line 11
+[22-Sep-2024 21:00:26 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home1/alvarium/public_html/wp-includes/class-wp-http-requests-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-http-requests-response.php on line 17
+[22-Sep-2024 21:00:29 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home1/alvarium/public_html/wp-includes/feed-rss.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/feed-rss.php on line 8
+[22-Sep-2024 21:00:32 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home1/alvarium/public_html/wp-includes/ms-default-filters.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/ms-default-filters.php on line 16
+[22-Sep-2024 21:00:38 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home1/alvarium/public_html/wp-includes/feed-rss2-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/feed-rss2-comments.php on line 8
+[22-Sep-2024 21:00:41 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function add_theme_support() in /home1/alvarium/public_html/wp-includes/block-patterns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/block-patterns.php on line 9
+[22-Sep-2024 21:00:43 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/wp-diff.php:13
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/wp-diff.php on line 13
+[22-Sep-2024 21:00:47 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home1/alvarium/public_html/wp-includes/class-walker-nav-menu.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[22-Sep-2024 21:01:00 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home1/alvarium/public_html/wp-includes/feed-rdf.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/feed-rdf.php on line 8
+[22-Sep-2024 21:01:06 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home1/alvarium/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/template-canvas.php on line 12
+[22-Sep-2024 21:01:11 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home1/alvarium/public_html/wp-includes/vars.php:23
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/vars.php on line 23
+[22-Sep-2024 21:01:15 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/functions.php on line 8
+[22-Sep-2024 21:01:19 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/class-snoopy.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-snoopy.php on line 6
+[22-Sep-2024 21:01:22 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home1/alvarium/public_html/wp-includes/class-walker-page.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-walker-page.php on line 17
+[22-Sep-2024 21:01:31 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home1/alvarium/public_html/wp-includes/class-wp-xmlrpc-server.php:24
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-xmlrpc-server.php on line 24
+[22-Sep-2024 21:01:33 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home1/alvarium/public_html/wp-includes/class-wp-http-ixr-client.php:9
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-http-ixr-client.php on line 9
+[22-Sep-2024 21:01:40 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WP_Session_Tokens" not found in /home1/alvarium/public_html/wp-includes/class-wp-user-meta-session-tokens.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-user-meta-session-tokens.php on line 17
+[22-Sep-2024 21:01:52 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home1/alvarium/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-styles.php on line 18
+[22-Sep-2024 21:02:04 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "SimplePie_Sanitize" not found in /home1/alvarium/public_html/wp-includes/class-wp-simplepie-sanitize-kses.php:19
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-simplepie-sanitize-kses.php on line 19
+[22-Sep-2024 21:02:50 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/class-wp-customize-panel.php:411
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-customize-panel.php on line 411
+[22-Sep-2024 21:02:53 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/meta.php:13
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/meta.php on line 13
+[22-Sep-2024 21:03:07 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home1/alvarium/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/feed-atom-comments.php on line 8
+[22-Sep-2024 21:03:10 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/class-IXR.php:42
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-IXR.php on line 42
+[22-Sep-2024 21:03:17 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home1/alvarium/public_html/wp-includes/class-walker-category.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-walker-category.php on line 17
+[22-Sep-2024 21:03:25 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/class.wp-scripts.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class.wp-scripts.php on line 11
+[22-Sep-2024 21:03:29 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/locale.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/locale.php on line 11
+[22-Sep-2024 21:03:34 America/Mexico_City] PHP Deprecated:  The PSR-0 `Requests_...` class names in the Requests library are deprecated. Switch to the PSR-4 `WpOrg\Requests\...` class names at your earliest convenience. in /home1/alvarium/public_html/wp-includes/class-requests.php on line 24
+[22-Sep-2024 21:03:40 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/default-widgets.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/default-widgets.php on line 11
+[22-Sep-2024 21:03:43 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "SimplePie_File" not found in /home1/alvarium/public_html/wp-includes/class-wp-simplepie-file.php:19
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-simplepie-file.php on line 19
+[22-Sep-2024 21:03:53 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WP_Image_Editor" not found in /home1/alvarium/public_html/wp-includes/class-wp-image-editor-gd.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-image-editor-gd.php on line 16
+[22-Sep-2024 21:03:56 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/nav-menu-template.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/nav-menu-template.php on line 11
+[22-Sep-2024 21:03:59 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home1/alvarium/public_html/wp-includes/class-walker-comment.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-walker-comment.php on line 17
+[22-Sep-2024 21:04:11 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/class-wp-customize-control.php:706
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-customize-control.php on line 706
+[22-Sep-2024 21:04:16 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home1/alvarium/public_html/wp-includes/media.php:2342
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/media.php on line 2342
+[22-Sep-2024 21:04:21 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home1/alvarium/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-scripts.php on line 18
+[22-Sep-2024 21:04:26 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/ms-blogs.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/ms-blogs.php on line 11
+[22-Sep-2024 21:04:32 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home1/alvarium/public_html/wp-includes/update.php:1152
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/update.php on line 1152
+[22-Sep-2024 21:04:33 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/class-json.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-json.php on line 2
+[22-Sep-2024 21:04:36 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/class-simplepie.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-simplepie.php on line 5
+[22-Sep-2024 21:04:40 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "Text_Diff_Renderer" not found in /home1/alvarium/public_html/wp-includes/class-wp-text-diff-renderer-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-text-diff-renderer-table.php on line 17
+[22-Sep-2024 21:04:41 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/class-smtp.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-smtp.php on line 6
+[22-Sep-2024 21:04:44 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/class.wp-styles.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class.wp-styles.php on line 11
+[22-Sep-2024 21:04:47 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/rss.php:19
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/rss.php on line 19
+[22-Sep-2024 21:04:49 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/class-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-http.php on line 11
+[22-Sep-2024 21:04:54 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/registration.php:9
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/registration.php on line 9
+[22-Sep-2024 21:05:04 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home1/alvarium/public_html/wp-includes/default-filters.php:22
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/default-filters.php on line 22
+[22-Sep-2024 21:05:06 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/class-wp-customize-setting.php:964
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-customize-setting.php on line 964
+[22-Sep-2024 21:05:09 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/class-feed.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-feed.php on line 10
+[22-Sep-2024 21:05:14 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/script-loader.php:20
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/script-loader.php on line 20
+[22-Sep-2024 21:05:22 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/session.php:9
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/session.php on line 9
+[22-Sep-2024 21:05:25 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "Text_Diff_Renderer_inline" not found in /home1/alvarium/public_html/wp-includes/class-wp-text-diff-renderer-inline.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-text-diff-renderer-inline.php on line 17
+[22-Sep-2024 21:05:34 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/cache.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/cache.php on line 12
+[22-Sep-2024 21:05:37 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/date.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/date.php on line 11
+[22-Sep-2024 21:05:44 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Hooks" not found in /home1/alvarium/public_html/wp-includes/class-wp-http-requests-hooks.php:18
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-http-requests-hooks.php on line 18
+[22-Sep-2024 21:05:49 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/registration-functions.php:9
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/registration-functions.php on line 9
+[22-Sep-2024 21:05:58 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home1/alvarium/public_html/wp-includes/class-walker-page-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-walker-page-dropdown.php on line 17
+[22-Sep-2024 21:06:08 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home1/alvarium/public_html/wp-includes/class-walker-category-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-walker-category-dropdown.php on line 17
+[22-Sep-2024 21:06:09 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/class-wp-customize-section.php:412
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-customize-section.php on line 412
+[22-Sep-2024 21:06:12 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/ms-settings.php:35
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/ms-settings.php on line 35
+[22-Sep-2024 21:06:20 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home1/alvarium/public_html/wp-includes/feed-atom.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/feed-atom.php on line 8
+[22-Sep-2024 21:06:23 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/embed-template.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/embed-template.php on line 11
+[22-Sep-2024 21:06:27 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/class.wp-dependencies.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class.wp-dependencies.php on line 11
+[22-Sep-2024 21:06:32 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WP_Image_Editor" not found in /home1/alvarium/public_html/wp-includes/class-wp-image-editor-imagick.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-image-editor-imagick.php on line 16
+[22-Sep-2024 21:06:35 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home1/alvarium/public_html/wp-includes/feed-rss2.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/feed-rss2.php on line 8
+[22-Sep-2024 21:06:42 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/class-oembed.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-oembed.php on line 12
+[22-Sep-2024 21:06:44 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function wp_using_themes() in /home1/alvarium/public_html/wp-includes/template-loader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/template-loader.php on line 7
+[22-Sep-2024 21:06:55 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/spl-autoload-compat.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/spl-autoload-compat.php on line 14
+[22-Sep-2024 21:06:58 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/class-wp-feed-cache.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-feed-cache.php on line 11
+[28-Sep-2024 06:23:59 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-http.php on line 11
+[28-Sep-2024 06:24:02 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home1/alvarium/public_html/wp-includes/class-wp-http-requests-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-http-requests-response.php on line 17
+[28-Sep-2024 06:24:03 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home1/alvarium/public_html/wp-includes/feed-rss.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/feed-rss.php on line 8
+[28-Sep-2024 06:24:04 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home1/alvarium/public_html/wp-includes/ms-default-filters.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/ms-default-filters.php on line 16
+[28-Sep-2024 12:16:58 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-http.php on line 11
+[28-Sep-2024 12:16:59 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home1/alvarium/public_html/wp-includes/class-wp-http-requests-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-http-requests-response.php on line 17
+[28-Sep-2024 12:17:01 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home1/alvarium/public_html/wp-includes/feed-rss.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/feed-rss.php on line 8
+[28-Sep-2024 12:17:02 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home1/alvarium/public_html/wp-includes/ms-default-filters.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/ms-default-filters.php on line 16
+[28-Sep-2024 12:17:03 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home1/alvarium/public_html/wp-includes/feed-rss2-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/feed-rss2-comments.php on line 8
+[28-Sep-2024 12:17:04 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function add_theme_support() in /home1/alvarium/public_html/wp-includes/block-patterns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/block-patterns.php on line 9
+[28-Sep-2024 12:17:05 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/wp-diff.php:13
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/wp-diff.php on line 13
+[28-Sep-2024 12:17:06 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home1/alvarium/public_html/wp-includes/class-walker-nav-menu.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[28-Sep-2024 12:17:13 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home1/alvarium/public_html/wp-includes/feed-rdf.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/feed-rdf.php on line 8
+[28-Sep-2024 12:17:18 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home1/alvarium/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/template-canvas.php on line 12
+[28-Sep-2024 12:17:19 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home1/alvarium/public_html/wp-includes/vars.php:23
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/vars.php on line 23
+[28-Sep-2024 12:17:21 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/functions.php on line 8
+[28-Sep-2024 12:17:22 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/class-snoopy.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-snoopy.php on line 6
+[28-Sep-2024 12:17:22 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home1/alvarium/public_html/wp-includes/class-walker-page.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-walker-page.php on line 17
+[28-Sep-2024 12:17:25 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home1/alvarium/public_html/wp-includes/class-wp-xmlrpc-server.php:24
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-xmlrpc-server.php on line 24
+[28-Sep-2024 12:17:26 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home1/alvarium/public_html/wp-includes/class-wp-http-ixr-client.php:9
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-http-ixr-client.php on line 9
+[28-Sep-2024 12:17:29 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WP_Session_Tokens" not found in /home1/alvarium/public_html/wp-includes/class-wp-user-meta-session-tokens.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-user-meta-session-tokens.php on line 17
+[28-Sep-2024 12:17:32 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home1/alvarium/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-styles.php on line 18
+[28-Sep-2024 12:17:36 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "SimplePie_Sanitize" not found in /home1/alvarium/public_html/wp-includes/class-wp-simplepie-sanitize-kses.php:19
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-simplepie-sanitize-kses.php on line 19
+[28-Sep-2024 12:17:43 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/class-wp-customize-panel.php:411
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-customize-panel.php on line 411
+[28-Sep-2024 12:17:44 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/meta.php:13
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/meta.php on line 13
+[28-Sep-2024 12:17:52 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home1/alvarium/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/feed-atom-comments.php on line 8
+[28-Sep-2024 12:17:53 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/class-IXR.php:42
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-IXR.php on line 42
+[28-Sep-2024 12:17:55 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home1/alvarium/public_html/wp-includes/class-walker-category.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-walker-category.php on line 17
+[28-Sep-2024 12:17:59 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/class.wp-scripts.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class.wp-scripts.php on line 11
+[28-Sep-2024 12:18:01 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/locale.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/locale.php on line 11
+[28-Sep-2024 12:18:03 America/Mexico_City] PHP Deprecated:  The PSR-0 `Requests_...` class names in the Requests library are deprecated. Switch to the PSR-4 `WpOrg\Requests\...` class names at your earliest convenience. in /home1/alvarium/public_html/wp-includes/class-requests.php on line 24
+[28-Sep-2024 12:18:05 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/default-widgets.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/default-widgets.php on line 11
+[28-Sep-2024 12:18:06 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "SimplePie_File" not found in /home1/alvarium/public_html/wp-includes/class-wp-simplepie-file.php:19
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-simplepie-file.php on line 19
+[28-Sep-2024 12:18:08 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WP_Image_Editor" not found in /home1/alvarium/public_html/wp-includes/class-wp-image-editor-gd.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-image-editor-gd.php on line 16
+[28-Sep-2024 12:18:08 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/nav-menu-template.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/nav-menu-template.php on line 11
+[28-Sep-2024 12:18:09 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home1/alvarium/public_html/wp-includes/class-walker-comment.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-walker-comment.php on line 17
+[28-Sep-2024 12:18:11 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/class-wp-customize-control.php:706
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-customize-control.php on line 706
+[28-Sep-2024 12:18:13 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home1/alvarium/public_html/wp-includes/media.php:2342
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/media.php on line 2342
+[28-Sep-2024 12:18:16 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home1/alvarium/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-scripts.php on line 18
+[28-Sep-2024 12:18:18 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/ms-blogs.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/ms-blogs.php on line 11
+[28-Sep-2024 12:18:19 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home1/alvarium/public_html/wp-includes/update.php:1152
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/update.php on line 1152
+[28-Sep-2024 12:18:19 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/class-json.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-json.php on line 2
+[28-Sep-2024 12:18:20 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/class-simplepie.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-simplepie.php on line 5
+[28-Sep-2024 12:18:22 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "Text_Diff_Renderer" not found in /home1/alvarium/public_html/wp-includes/class-wp-text-diff-renderer-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-text-diff-renderer-table.php on line 17
+[28-Sep-2024 12:18:22 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/class-smtp.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-smtp.php on line 6
+[28-Sep-2024 12:18:23 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/class.wp-styles.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class.wp-styles.php on line 11
+[28-Sep-2024 12:18:24 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/rss.php:19
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/rss.php on line 19
+[28-Sep-2024 12:18:26 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/class-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-http.php on line 11
+[28-Sep-2024 12:18:28 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/registration.php:9
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/registration.php on line 9
+[28-Sep-2024 12:18:28 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home1/alvarium/public_html/wp-includes/default-filters.php:22
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/default-filters.php on line 22
+[28-Sep-2024 12:18:29 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/class-wp-customize-setting.php:964
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-customize-setting.php on line 964
+[28-Sep-2024 12:18:30 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/class-feed.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-feed.php on line 10
+[28-Sep-2024 12:18:32 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/script-loader.php:20
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/script-loader.php on line 20
+[28-Sep-2024 12:18:34 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/session.php:9
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/session.php on line 9
+[28-Sep-2024 12:18:36 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "Text_Diff_Renderer_inline" not found in /home1/alvarium/public_html/wp-includes/class-wp-text-diff-renderer-inline.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-text-diff-renderer-inline.php on line 17
+[28-Sep-2024 12:18:41 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/cache.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/cache.php on line 12
+[28-Sep-2024 12:18:42 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/date.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/date.php on line 11
+[28-Sep-2024 12:18:43 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Hooks" not found in /home1/alvarium/public_html/wp-includes/class-wp-http-requests-hooks.php:18
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-http-requests-hooks.php on line 18
+[28-Sep-2024 12:18:45 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/registration-functions.php:9
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/registration-functions.php on line 9
+[28-Sep-2024 12:18:53 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home1/alvarium/public_html/wp-includes/class-walker-page-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-walker-page-dropdown.php on line 17
+[28-Sep-2024 12:18:56 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home1/alvarium/public_html/wp-includes/class-walker-category-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-walker-category-dropdown.php on line 17
+[28-Sep-2024 12:18:56 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/class-wp-customize-section.php:412
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-customize-section.php on line 412
+[28-Sep-2024 12:18:57 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/ms-settings.php:35
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/ms-settings.php on line 35
+[28-Sep-2024 12:18:59 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home1/alvarium/public_html/wp-includes/feed-atom.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/feed-atom.php on line 8
+[28-Sep-2024 12:19:00 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/embed-template.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/embed-template.php on line 11
+[28-Sep-2024 12:19:01 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/class.wp-dependencies.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class.wp-dependencies.php on line 11
+[28-Sep-2024 12:19:02 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WP_Image_Editor" not found in /home1/alvarium/public_html/wp-includes/class-wp-image-editor-imagick.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-image-editor-imagick.php on line 16
+[28-Sep-2024 12:19:04 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home1/alvarium/public_html/wp-includes/feed-rss2.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/feed-rss2.php on line 8
+[28-Sep-2024 12:19:05 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/class-oembed.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-oembed.php on line 12
+[28-Sep-2024 12:19:07 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function wp_using_themes() in /home1/alvarium/public_html/wp-includes/template-loader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/template-loader.php on line 7
+[28-Sep-2024 12:19:11 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/spl-autoload-compat.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/spl-autoload-compat.php on line 14
+[28-Sep-2024 12:19:13 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/class-wp-feed-cache.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-feed-cache.php on line 11
+[29-Sep-2024 01:25:21 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-http.php on line 11
+[29-Sep-2024 01:25:23 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home1/alvarium/public_html/wp-includes/class-wp-http-requests-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-http-requests-response.php on line 17
+[29-Sep-2024 01:25:24 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home1/alvarium/public_html/wp-includes/feed-rss.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/feed-rss.php on line 8
+[29-Sep-2024 01:25:25 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home1/alvarium/public_html/wp-includes/ms-default-filters.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/ms-default-filters.php on line 16
+[29-Sep-2024 01:25:27 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home1/alvarium/public_html/wp-includes/feed-rss2-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/feed-rss2-comments.php on line 8
+[29-Sep-2024 01:25:28 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function add_theme_support() in /home1/alvarium/public_html/wp-includes/block-patterns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/block-patterns.php on line 9
+[29-Sep-2024 01:25:29 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/wp-diff.php:13
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/wp-diff.php on line 13
+[29-Sep-2024 01:25:31 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home1/alvarium/public_html/wp-includes/class-walker-nav-menu.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[29-Sep-2024 01:25:37 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home1/alvarium/public_html/wp-includes/feed-rdf.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/feed-rdf.php on line 8
+[29-Sep-2024 01:25:39 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home1/alvarium/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/template-canvas.php on line 12
+[29-Sep-2024 01:25:40 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home1/alvarium/public_html/wp-includes/vars.php:23
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/vars.php on line 23
+[29-Sep-2024 01:25:42 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/functions.php on line 8
+[29-Sep-2024 01:25:43 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/class-snoopy.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-snoopy.php on line 6
+[29-Sep-2024 01:25:43 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home1/alvarium/public_html/wp-includes/class-walker-page.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-walker-page.php on line 17
+[29-Sep-2024 01:25:47 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home1/alvarium/public_html/wp-includes/class-wp-xmlrpc-server.php:24
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-xmlrpc-server.php on line 24
+[29-Sep-2024 01:25:48 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home1/alvarium/public_html/wp-includes/class-wp-http-ixr-client.php:9
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-http-ixr-client.php on line 9
+[29-Sep-2024 01:25:51 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WP_Session_Tokens" not found in /home1/alvarium/public_html/wp-includes/class-wp-user-meta-session-tokens.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-user-meta-session-tokens.php on line 17
+[29-Sep-2024 01:25:53 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home1/alvarium/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-styles.php on line 18
+[29-Sep-2024 01:25:59 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "SimplePie_Sanitize" not found in /home1/alvarium/public_html/wp-includes/class-wp-simplepie-sanitize-kses.php:19
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-simplepie-sanitize-kses.php on line 19
+[29-Sep-2024 01:26:11 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/class-wp-customize-panel.php:411
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-customize-panel.php on line 411
+[29-Sep-2024 01:26:13 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/meta.php:13
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/meta.php on line 13
+[29-Sep-2024 01:26:16 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home1/alvarium/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/feed-atom-comments.php on line 8
+[29-Sep-2024 01:26:18 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/class-IXR.php:42
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-IXR.php on line 42
+[29-Sep-2024 01:26:21 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home1/alvarium/public_html/wp-includes/class-walker-category.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-walker-category.php on line 17
+[29-Sep-2024 01:26:23 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/class.wp-scripts.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class.wp-scripts.php on line 11
+[29-Sep-2024 01:26:25 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/locale.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/locale.php on line 11
+[29-Sep-2024 01:26:28 America/Mexico_City] PHP Deprecated:  The PSR-0 `Requests_...` class names in the Requests library are deprecated. Switch to the PSR-4 `WpOrg\Requests\...` class names at your earliest convenience. in /home1/alvarium/public_html/wp-includes/class-requests.php on line 24
+[29-Sep-2024 01:26:31 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/default-widgets.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/default-widgets.php on line 11
+[29-Sep-2024 01:26:32 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "SimplePie_File" not found in /home1/alvarium/public_html/wp-includes/class-wp-simplepie-file.php:19
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-simplepie-file.php on line 19
+[29-Sep-2024 01:26:36 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WP_Image_Editor" not found in /home1/alvarium/public_html/wp-includes/class-wp-image-editor-gd.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-image-editor-gd.php on line 16
+[29-Sep-2024 01:26:36 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/nav-menu-template.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/nav-menu-template.php on line 11
+[29-Sep-2024 01:26:37 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home1/alvarium/public_html/wp-includes/class-walker-comment.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-walker-comment.php on line 17
+[29-Sep-2024 01:26:40 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/class-wp-customize-control.php:706
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-customize-control.php on line 706
+[29-Sep-2024 01:26:41 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home1/alvarium/public_html/wp-includes/media.php:2342
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/media.php on line 2342
+[29-Sep-2024 01:26:44 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home1/alvarium/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-scripts.php on line 18
+[29-Sep-2024 01:26:45 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/ms-blogs.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/ms-blogs.php on line 11
+[29-Sep-2024 01:26:47 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home1/alvarium/public_html/wp-includes/update.php:1152
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/update.php on line 1152
+[29-Sep-2024 01:26:48 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/class-json.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-json.php on line 2
+[29-Sep-2024 01:26:49 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/class-simplepie.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-simplepie.php on line 5
+[29-Sep-2024 01:26:50 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "Text_Diff_Renderer" not found in /home1/alvarium/public_html/wp-includes/class-wp-text-diff-renderer-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-text-diff-renderer-table.php on line 17
+[29-Sep-2024 01:26:51 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/class-smtp.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-smtp.php on line 6
+[29-Sep-2024 01:26:52 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/class.wp-styles.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class.wp-styles.php on line 11
+[29-Sep-2024 01:26:53 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/rss.php:19
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/rss.php on line 19
+[29-Sep-2024 01:26:54 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/class-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-http.php on line 11
+[29-Sep-2024 01:26:55 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/registration.php:9
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/registration.php on line 9
+[29-Sep-2024 01:26:56 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home1/alvarium/public_html/wp-includes/default-filters.php:22
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/default-filters.php on line 22
+[29-Sep-2024 01:26:58 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/class-wp-customize-setting.php:964
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-customize-setting.php on line 964
+[29-Sep-2024 01:26:59 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/class-feed.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-feed.php on line 10
+[29-Sep-2024 01:27:00 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/script-loader.php:20
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/script-loader.php on line 20
+[29-Sep-2024 01:27:03 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/session.php:9
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/session.php on line 9
+[29-Sep-2024 01:27:04 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "Text_Diff_Renderer_inline" not found in /home1/alvarium/public_html/wp-includes/class-wp-text-diff-renderer-inline.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-text-diff-renderer-inline.php on line 17
+[29-Sep-2024 01:27:09 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/cache.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/cache.php on line 12
+[29-Sep-2024 01:27:10 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/date.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/date.php on line 11
+[29-Sep-2024 01:27:11 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Hooks" not found in /home1/alvarium/public_html/wp-includes/class-wp-http-requests-hooks.php:18
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-http-requests-hooks.php on line 18
+[29-Sep-2024 01:27:14 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/registration-functions.php:9
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/registration-functions.php on line 9
+[29-Sep-2024 01:27:21 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home1/alvarium/public_html/wp-includes/class-walker-page-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-walker-page-dropdown.php on line 17
+[29-Sep-2024 01:27:24 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home1/alvarium/public_html/wp-includes/class-walker-category-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-walker-category-dropdown.php on line 17
+[29-Sep-2024 01:27:25 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/class-wp-customize-section.php:412
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-customize-section.php on line 412
+[29-Sep-2024 01:27:26 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/ms-settings.php:35
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/ms-settings.php on line 35
+[29-Sep-2024 01:27:28 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home1/alvarium/public_html/wp-includes/feed-atom.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/feed-atom.php on line 8
+[29-Sep-2024 01:27:30 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/embed-template.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/embed-template.php on line 11
+[29-Sep-2024 01:27:31 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/class.wp-dependencies.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class.wp-dependencies.php on line 11
+[29-Sep-2024 01:27:32 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WP_Image_Editor" not found in /home1/alvarium/public_html/wp-includes/class-wp-image-editor-imagick.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-image-editor-imagick.php on line 16
+[29-Sep-2024 01:27:34 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home1/alvarium/public_html/wp-includes/feed-rss2.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/feed-rss2.php on line 8
+[29-Sep-2024 01:27:36 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/class-oembed.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-oembed.php on line 12
+[29-Sep-2024 01:27:38 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function wp_using_themes() in /home1/alvarium/public_html/wp-includes/template-loader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/template-loader.php on line 7
+[29-Sep-2024 01:27:43 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/spl-autoload-compat.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/spl-autoload-compat.php on line 14
+[29-Sep-2024 01:27:45 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/class-wp-feed-cache.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-feed-cache.php on line 11
+[29-Sep-2024 14:23:02 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-http.php on line 11
+[29-Sep-2024 14:23:05 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home1/alvarium/public_html/wp-includes/class-wp-http-requests-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-http-requests-response.php on line 17
+[29-Sep-2024 14:23:07 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home1/alvarium/public_html/wp-includes/feed-rss.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/feed-rss.php on line 8
+[29-Sep-2024 14:23:08 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home1/alvarium/public_html/wp-includes/ms-default-filters.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/ms-default-filters.php on line 16
+[29-Sep-2024 14:23:11 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home1/alvarium/public_html/wp-includes/feed-rss2-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/feed-rss2-comments.php on line 8
+[29-Sep-2024 14:23:12 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function add_theme_support() in /home1/alvarium/public_html/wp-includes/block-patterns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/block-patterns.php on line 9
+[29-Sep-2024 14:23:13 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/wp-diff.php:13
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/wp-diff.php on line 13
+[29-Sep-2024 14:23:15 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home1/alvarium/public_html/wp-includes/class-walker-nav-menu.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[29-Sep-2024 14:23:20 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home1/alvarium/public_html/wp-includes/feed-rdf.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/feed-rdf.php on line 8
+[29-Sep-2024 14:23:24 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home1/alvarium/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/template-canvas.php on line 12
+[29-Sep-2024 14:23:25 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home1/alvarium/public_html/wp-includes/vars.php:23
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/vars.php on line 23
+[29-Sep-2024 14:23:27 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/functions.php on line 8
+[29-Sep-2024 14:23:28 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/class-snoopy.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-snoopy.php on line 6
+[29-Sep-2024 14:23:29 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home1/alvarium/public_html/wp-includes/class-walker-page.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-walker-page.php on line 17
+[29-Sep-2024 14:23:33 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home1/alvarium/public_html/wp-includes/class-wp-xmlrpc-server.php:24
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-xmlrpc-server.php on line 24
+[29-Sep-2024 14:23:34 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home1/alvarium/public_html/wp-includes/class-wp-http-ixr-client.php:9
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-http-ixr-client.php on line 9
+[29-Sep-2024 14:23:37 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WP_Session_Tokens" not found in /home1/alvarium/public_html/wp-includes/class-wp-user-meta-session-tokens.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-user-meta-session-tokens.php on line 17
+[29-Sep-2024 14:23:39 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home1/alvarium/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-styles.php on line 18
+[29-Sep-2024 14:23:46 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "SimplePie_Sanitize" not found in /home1/alvarium/public_html/wp-includes/class-wp-simplepie-sanitize-kses.php:19
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-simplepie-sanitize-kses.php on line 19
+[29-Sep-2024 14:23:59 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/class-wp-customize-panel.php:411
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-customize-panel.php on line 411
+[29-Sep-2024 14:24:00 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/meta.php:13
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/meta.php on line 13
+[29-Sep-2024 14:24:06 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home1/alvarium/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/feed-atom-comments.php on line 8
+[29-Sep-2024 14:24:08 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/class-IXR.php:42
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-IXR.php on line 42
+[29-Sep-2024 14:24:10 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home1/alvarium/public_html/wp-includes/class-walker-category.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-walker-category.php on line 17
+[29-Sep-2024 14:24:14 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/class.wp-scripts.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class.wp-scripts.php on line 11
+[29-Sep-2024 14:24:16 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/locale.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/locale.php on line 11
+[29-Sep-2024 14:24:19 America/Mexico_City] PHP Deprecated:  The PSR-0 `Requests_...` class names in the Requests library are deprecated. Switch to the PSR-4 `WpOrg\Requests\...` class names at your earliest convenience. in /home1/alvarium/public_html/wp-includes/class-requests.php on line 24
+[29-Sep-2024 14:24:22 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/default-widgets.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/default-widgets.php on line 11
+[29-Sep-2024 14:24:23 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "SimplePie_File" not found in /home1/alvarium/public_html/wp-includes/class-wp-simplepie-file.php:19
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-simplepie-file.php on line 19
+[29-Sep-2024 14:24:25 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WP_Image_Editor" not found in /home1/alvarium/public_html/wp-includes/class-wp-image-editor-gd.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-image-editor-gd.php on line 16
+[29-Sep-2024 14:24:26 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/nav-menu-template.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/nav-menu-template.php on line 11
+[29-Sep-2024 14:24:27 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home1/alvarium/public_html/wp-includes/class-walker-comment.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-walker-comment.php on line 17
+[29-Sep-2024 14:24:30 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/class-wp-customize-control.php:706
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-customize-control.php on line 706
+[29-Sep-2024 14:24:32 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home1/alvarium/public_html/wp-includes/media.php:2342
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/media.php on line 2342
+[29-Sep-2024 14:24:35 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home1/alvarium/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-scripts.php on line 18
+[29-Sep-2024 14:24:36 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/ms-blogs.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/ms-blogs.php on line 11
+[29-Sep-2024 14:24:38 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home1/alvarium/public_html/wp-includes/update.php:1152
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/update.php on line 1152
+[29-Sep-2024 14:24:39 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/class-json.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-json.php on line 2
+[29-Sep-2024 14:24:41 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/class-simplepie.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-simplepie.php on line 5
+[29-Sep-2024 14:24:42 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "Text_Diff_Renderer" not found in /home1/alvarium/public_html/wp-includes/class-wp-text-diff-renderer-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-text-diff-renderer-table.php on line 17
+[29-Sep-2024 14:24:43 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/class-smtp.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-smtp.php on line 6
+[29-Sep-2024 14:24:44 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/class.wp-styles.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class.wp-styles.php on line 11
+[29-Sep-2024 14:24:45 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/rss.php:19
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/rss.php on line 19
+[29-Sep-2024 14:24:47 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/class-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-http.php on line 11
+[29-Sep-2024 14:24:49 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/registration.php:9
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/registration.php on line 9
+[29-Sep-2024 14:24:51 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home1/alvarium/public_html/wp-includes/default-filters.php:22
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/default-filters.php on line 22
+[29-Sep-2024 14:24:52 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/class-wp-customize-setting.php:964
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-customize-setting.php on line 964
+[29-Sep-2024 14:24:53 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/class-feed.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-feed.php on line 10
+[29-Sep-2024 14:24:54 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/script-loader.php:20
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/script-loader.php on line 20
+[29-Sep-2024 14:24:58 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/session.php:9
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/session.php on line 9
+[29-Sep-2024 14:24:59 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "Text_Diff_Renderer_inline" not found in /home1/alvarium/public_html/wp-includes/class-wp-text-diff-renderer-inline.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-text-diff-renderer-inline.php on line 17
+[29-Sep-2024 14:25:06 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/cache.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/cache.php on line 12
+[29-Sep-2024 14:25:07 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/date.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/date.php on line 11
+[29-Sep-2024 14:25:11 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Hooks" not found in /home1/alvarium/public_html/wp-includes/class-wp-http-requests-hooks.php:18
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-http-requests-hooks.php on line 18
+[29-Sep-2024 14:25:14 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/registration-functions.php:9
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/registration-functions.php on line 9
+[29-Sep-2024 14:25:21 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home1/alvarium/public_html/wp-includes/class-walker-page-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-walker-page-dropdown.php on line 17
+[29-Sep-2024 14:25:25 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home1/alvarium/public_html/wp-includes/class-walker-category-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-walker-category-dropdown.php on line 17
+[29-Sep-2024 14:25:26 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/class-wp-customize-section.php:412
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-customize-section.php on line 412
+[29-Sep-2024 14:25:27 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/ms-settings.php:35
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/ms-settings.php on line 35
+[29-Sep-2024 14:25:29 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home1/alvarium/public_html/wp-includes/feed-atom.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/feed-atom.php on line 8
+[29-Sep-2024 14:25:31 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/embed-template.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/embed-template.php on line 11
+[29-Sep-2024 14:25:32 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/class.wp-dependencies.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class.wp-dependencies.php on line 11
+[29-Sep-2024 14:25:35 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WP_Image_Editor" not found in /home1/alvarium/public_html/wp-includes/class-wp-image-editor-imagick.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-image-editor-imagick.php on line 16
+[29-Sep-2024 14:25:36 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home1/alvarium/public_html/wp-includes/feed-rss2.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/feed-rss2.php on line 8
+[29-Sep-2024 14:25:38 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/class-oembed.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-oembed.php on line 12
+[29-Sep-2024 14:25:40 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function wp_using_themes() in /home1/alvarium/public_html/wp-includes/template-loader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/template-loader.php on line 7
+[29-Sep-2024 14:25:47 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/spl-autoload-compat.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/spl-autoload-compat.php on line 14
+[29-Sep-2024 14:25:48 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/class-wp-feed-cache.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class-wp-feed-cache.php on line 11
+[03-Nov-2024 08:28:16 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/alvarium/public_html/wp-includes/class.wp-styles.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/class.wp-styles.php on line 11
+[03-Nov-2024 08:28:18 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/wp-diff.php:13
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/wp-diff.php on line 13
+[08-Jul-2025 04:22:18 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/meta.php:13
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/meta.php on line 13
+[10-Jul-2025 16:14:16 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/alvarium/public_html/wp-includes/meta.php:13
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/meta.php on line 13

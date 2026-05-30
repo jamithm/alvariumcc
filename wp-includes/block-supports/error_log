@@ -1,0 +1,80 @@
+[05-Jul-2025 21:49:54 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home1/alvarium/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/block-supports/border.php on line 170
+[05-Jul-2025 21:51:45 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home1/alvarium/public_html/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/block-supports/align.php on line 59
+[05-Jul-2025 21:51:55 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home1/alvarium/public_html/wp-includes/block-supports/typography.php:684
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/block-supports/typography.php on line 684
+[05-Jul-2025 21:52:46 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home1/alvarium/public_html/wp-includes/block-supports/colors.php:138
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/block-supports/colors.php on line 138
+[05-Jul-2025 21:52:58 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home1/alvarium/public_html/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/block-supports/spacing.php on line 83
+[06-Jul-2025 17:41:03 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home1/alvarium/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/block-supports/border.php on line 170
+[06-Jul-2025 17:41:35 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home1/alvarium/public_html/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/block-supports/align.php on line 59
+[06-Jul-2025 17:41:38 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home1/alvarium/public_html/wp-includes/block-supports/typography.php:684
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/block-supports/typography.php on line 684
+[06-Jul-2025 17:41:53 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home1/alvarium/public_html/wp-includes/block-supports/colors.php:138
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/block-supports/colors.php on line 138
+[06-Jul-2025 17:41:57 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home1/alvarium/public_html/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/block-supports/spacing.php on line 83
+[07-Jul-2025 00:06:46 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home1/alvarium/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/block-supports/border.php on line 170
+[07-Jul-2025 00:08:25 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home1/alvarium/public_html/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/block-supports/align.php on line 59
+[07-Jul-2025 00:08:33 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home1/alvarium/public_html/wp-includes/block-supports/typography.php:684
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/block-supports/typography.php on line 684
+[07-Jul-2025 00:09:13 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home1/alvarium/public_html/wp-includes/block-supports/colors.php:138
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/block-supports/colors.php on line 138
+[07-Jul-2025 00:09:23 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home1/alvarium/public_html/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/block-supports/spacing.php on line 83
+[08-Jul-2025 23:49:30 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home1/alvarium/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/block-supports/border.php on line 170
+[08-Jul-2025 23:50:32 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home1/alvarium/public_html/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/block-supports/align.php on line 59
+[08-Jul-2025 23:50:37 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home1/alvarium/public_html/wp-includes/block-supports/typography.php:684
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/block-supports/typography.php on line 684
+[08-Jul-2025 23:51:04 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home1/alvarium/public_html/wp-includes/block-supports/colors.php:138
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/block-supports/colors.php on line 138
+[08-Jul-2025 23:51:11 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home1/alvarium/public_html/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-includes/block-supports/spacing.php on line 83

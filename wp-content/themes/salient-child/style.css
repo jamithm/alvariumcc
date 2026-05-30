@@ -1,0 +1,132 @@
+/*
+Theme Name: Salient Child Theme
+Description: This is a custom child theme for Salient
+Theme URI:   https://themeforest.net/item/salient-responsive-multipurpose-theme/4363266
+Author: ThemeNectar
+Author URI:  https://themeforest.net/user/themenectar
+Template: salient
+Version: 1.0
+*/
+.middle_content .row_col_wrap_12,.middle_content .section_inner .section_inner_margin,#footer-widgets .container .row{
+	display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.row .col p:last-child {  
+  font-size: 18px;
+	color: #000;
+}
+.project-attrs li i {
+  font-size: 45px;
+  line-height: 45px;
+  text-align: left;
+  margin-right: 30px;
+}
+
+#sidebar-inner #project-meta{display: none;}
+.project-attrs.checks{color: #000}
+#sidebar div ul li{
+    font-size: 18px;
+}
+body .nectar-milestone .subject {   
+    font-size: 22px;
+    line-height: 32px;
+    color: #27ddd7;
+    font-family: Montserrat;
+    font-weight: 700;
+}
+#footer-widgets .nectar_icon_wrap[data-style="shadow-bg"]:not([data-color="white"]) .nectar_icon i {
+  color: #000 !important;
+}
+#copyright.row .col p:last-child {
+    font-size: 14px;
+}
+.text-black h3,.text-black p{
+	color: #000 !important;
+}
+.nectar_icon_wrap a {  
+  width: auto; 
+}
+.inline-form .wpcf7-form-control-wrap,.inline-form label{
+	display: inline-block !important;
+}
+.inline-form label{
+	width:10%;    
+}
+.v-align_top{
+	vertical-align: top;
+}
+.inline-form .wpcf7-form-control-wrap{
+	width:90%	
+}
+.inline-form {
+    margin-bottom: 25px;
+}
+
+.inline-form span.wpcf7-form-control-wrap {
+    padding-left: 20px;
+}
+.center{
+	text-align: center;
+}
+input[type=submit], button[type=submit], input[type="button"] {
+    background-color: #02bdde;
+    font-size: 18px;    
+}
+.custom-text{
+    display: inline-block;
+    margin-left: 55px;
+    font-size: 25px;
+    line-height: 37px;
+    vertical-align: middle;
+}
+.nectar-icon-list[data-icon-size="small"] .nectar-icon-list-item .list-icon-holder i {
+    line-height: 50px!important;
+}
+.nectar-icon-list[data-icon-color="default"] .list-icon-holder {
+    background-color: #fff !important;
+    border-color: #fff;
+    color: #000;
+}
+.nectar-icon-list[data-icon-size="small"] .nectar-icon-list-item .list-icon-holder,.nectar-icon-list[data-icon-size="small"] .nectar-icon-list-item .list-icon-holder i {    
+    font-size: 26px;
+    width: 50px;
+    height: 50px;
+}
+.custom-li{
+  margin-left: 0px;
+}
+.custom-li li{
+	list-style: none !important;
+	padding: 0;
+    margin: 0;
+}
+.custom-li li:before {	
+    content: "-"; /* Insert content that looks like bullets */
+    padding-right: 8px;   
+}
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+	.inline-form label,.inline-form .wpcf7-form-control-wrap{
+		width:100%;    
+	}	
+	.inline-form span.wpcf7-form-control-wrap {
+    	padding-left: 0px;
+	}
+	#ajax-content-wrap.no-scroll{
+		margin-top: 0 !important;
+	}
+}
+@media only screen and (max-width: 480px) {
+ .inline-form label,.inline-form .wpcf7-form-control-wrap{
+		width:100%;    
+	}	
+	.inline-form span.wpcf7-form-control-wrap {
+    	padding-left: 0px;
+	}
+	body h1{font-size: 34.5px;}
+	.row .col h5, body h5{font-size: 24px;}
+	#ajax-content-wrap.no-scroll{
+		margin-top: 0 !important;
+	}
+}

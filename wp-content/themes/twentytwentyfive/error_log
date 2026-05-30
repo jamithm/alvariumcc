@@ -1,0 +1,48 @@
+[18-Aug-2025 20:52:59 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home1/alvarium/public_html/wp-content/themes/twentytwentyfive/functions.php:25
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-content/themes/twentytwentyfive/functions.php on line 25
+[19-Aug-2025 12:47:19 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home1/alvarium/public_html/wp-content/themes/twentytwentyfive/functions.php:25
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-content/themes/twentytwentyfive/functions.php on line 25
+[20-Aug-2025 16:49:03 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home1/alvarium/public_html/wp-content/themes/twentytwentyfive/functions.php:25
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-content/themes/twentytwentyfive/functions.php on line 25
+[21-Aug-2025 02:48:39 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home1/alvarium/public_html/wp-content/themes/twentytwentyfive/functions.php:25
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-content/themes/twentytwentyfive/functions.php on line 25
+[22-Aug-2025 00:49:20 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home1/alvarium/public_html/wp-content/themes/twentytwentyfive/functions.php:25
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-content/themes/twentytwentyfive/functions.php on line 25
+[22-Aug-2025 10:32:52 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home1/alvarium/public_html/wp-content/themes/twentytwentyfive/functions.php:25
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-content/themes/twentytwentyfive/functions.php on line 25
+[22-Aug-2025 14:32:49 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home1/alvarium/public_html/wp-content/themes/twentytwentyfive/functions.php:25
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-content/themes/twentytwentyfive/functions.php on line 25
+[22-Aug-2025 14:57:01 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home1/alvarium/public_html/wp-content/themes/twentytwentyfive/functions.php:25
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-content/themes/twentytwentyfive/functions.php on line 25
+[22-Aug-2025 16:02:14 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home1/alvarium/public_html/wp-content/themes/twentytwentyfive/functions.php:25
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-content/themes/twentytwentyfive/functions.php on line 25
+[23-Aug-2025 05:16:42 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home1/alvarium/public_html/wp-content/themes/twentytwentyfive/functions.php:25
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-content/themes/twentytwentyfive/functions.php on line 25
+[23-Aug-2025 05:29:21 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home1/alvarium/public_html/wp-content/themes/twentytwentyfive/functions.php:25
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-content/themes/twentytwentyfive/functions.php on line 25
+[23-Aug-2025 18:29:17 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home1/alvarium/public_html/wp-content/themes/twentytwentyfive/functions.php:25
+Stack trace:
+#0 {main}
+  thrown in /home1/alvarium/public_html/wp-content/themes/twentytwentyfive/functions.php on line 25
